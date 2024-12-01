@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Laboratorium9/1.0.0": {
+        "dependencies": {
+          "Cars.DB_1": "1.0.0.0",
+          "Interfaces": "1.0.0.0"
+        },
+        "runtime": {
+          "Laboratorium9.dll": {}
+        }
+      },
+      "Cars.DB_1/1.0.0.0": {
+        "runtime": {
+          "Cars.DB_1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Interfaces/1.0.0.0": {
+        "runtime": {
+          "Interfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratorium9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cars.DB_1/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interfaces/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

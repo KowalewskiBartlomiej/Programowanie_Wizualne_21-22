@@ -1,0 +1,15 @@
+C:\Users\kowal\Desktop\Laboratorium4\bin\Debug\net6.0\Laboratorium4.exe
+C:\Users\kowal\Desktop\Laboratorium4\bin\Debug\net6.0\Laboratorium4.deps.json
+C:\Users\kowal\Desktop\Laboratorium4\bin\Debug\net6.0\Laboratorium4.runtimeconfig.json
+C:\Users\kowal\Desktop\Laboratorium4\bin\Debug\net6.0\Laboratorium4.dll
+C:\Users\kowal\Desktop\Laboratorium4\bin\Debug\net6.0\Laboratorium4.pdb
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\Laboratorium4.csproj.AssemblyReference.cache
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\Laboratorium4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\Laboratorium4.AssemblyInfoInputs.cache
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\Laboratorium4.AssemblyInfo.cs
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\Laboratorium4.csproj.CoreCompileInputs.cache
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\Laboratorium4.dll
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\refint\Laboratorium4.dll
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\Laboratorium4.pdb
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\Laboratorium4.genruntimeconfig.cache
+C:\Users\kowal\Desktop\Laboratorium4\obj\Debug\net6.0\ref\Laboratorium4.dll

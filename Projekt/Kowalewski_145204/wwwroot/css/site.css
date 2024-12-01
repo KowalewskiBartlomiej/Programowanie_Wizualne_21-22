@@ -1,0 +1,167 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 80px;
+  background-color: #f3f6f4;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
+
+form {
+    margin-top: 2rem;
+}
+
+p > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 0.3rem;
+    border: solid;
+    border-width: 2px;
+    transition: 0.3s;
+}
+
+p > a:hover {
+    background-color: white;
+    color: black;
+}
+
+.form-group {
+    margin-top: 1rem;
+}
+
+.container > main {
+    padding: 1rem;
+    background-color: #eeeeee;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+p > input[type=submit] {
+    text-decoration: none;
+    color: black;
+    border: solid;
+    border-width: 2px;
+    font-weight: bold;
+    padding: 0.3rem;
+    transition: 0.3s;
+}
+
+p > input[type=submit]:hover {
+    background-color: white;
+    color: black;
+}
+
+td > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    border: solid;
+    border-width: 2px;
+    padding: 0.3rem;
+    transition: 0.3s;
+}
+
+td > a:hover {
+    background-color: white;
+    color: black;
+}
+
+tr {
+    height: 3rem;
+    margin-top: 1rem;
+}
+
+th {
+    font-size: 1.2rem;
+}
+
+th > a {
+    color: black;
+    text-decoration: none;
+}
+
+td {
+    margin: 10rem;
+    line-height: 2.5rem;
+}
+
+div > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 0.3rem;
+    transition: 0.3s;
+}
+
+div > a:hover {
+    background-color: white;
+    color: black;
+}
+
+div > input[type=submit] {
+    background-color: #f3f6f4;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 0.3rem;
+    border: solid;
+    border-width: 2px;
+    margin-bottom: 1rem;
+    transition: 0.3s;
+}
+
+div > input[type=submit]:hover {
+    background-color: white;
+    color: black;
+}
+
+form > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 0.3rem;
+    transition: 0.3s;
+}
+
+form > a:hover {
+    background-color: white;
+    color: black;
+}
+
+.btn-danger {
+    background-color: #f3f6f4;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    padding: 0.3rem;
+    border: solid;
+    border-width: 2px;
+    margin-bottom: 1rem;
+    transition: 0.3s;
+}
+
+footer {
+    background-color: white;
+}
+
+.btn-primary:hover {
+    background-color: white;
+    border-color: black;
+    color: black;
+}

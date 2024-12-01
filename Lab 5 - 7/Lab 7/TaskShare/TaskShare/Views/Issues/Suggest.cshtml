@@ -1,0 +1,35 @@
+﻿@model TaskShare.Models.Issue
+
+@{
+    ViewData["Title"] = "Suggest";
+}
+
+<h1>Suggest</h1>
+
+<div>
+    <h4>Issue</h4>
+    <hr />
+    <dl class="row">
+        @for(int i=0; i<Model.Users.Count; i++) {
+            <dt class="col-sm-2">
+                @Model.Users[i]
+            </dt>
+            <dd class="col-sm-10">
+                @foreach(TaskShare.Models.Task task in ViewBag.Result[i]) {
+                    <div>
+                        @task.Label
+                    </div>
+                }
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+        }
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\kowal\Desktop\ClassLibrary1\bin\Debug\net6.0\Laboratorium1_3.deps.json
+C:\Users\kowal\Desktop\ClassLibrary1\bin\Debug\net6.0\Laboratorium1_3.dll
+C:\Users\kowal\Desktop\ClassLibrary1\bin\Debug\net6.0\Laboratorium1_3.pdb
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\Laboratorium1_3.csproj.AssemblyReference.cache
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\Laboratorium1_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\Laboratorium1_3.AssemblyInfoInputs.cache
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\Laboratorium1_3.AssemblyInfo.cs
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\Laboratorium1_3.csproj.CoreCompileInputs.cache
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\Laboratorium1_3.dll
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\refint\Laboratorium1_3.dll
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\Laboratorium1_3.pdb
+C:\Users\kowal\Desktop\ClassLibrary1\obj\Debug\net6.0\ref\Laboratorium1_3.dll

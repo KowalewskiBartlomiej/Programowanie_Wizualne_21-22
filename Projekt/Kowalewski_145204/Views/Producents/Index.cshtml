@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Kowalewski_145204.Models.Producent>
+
+@{
+    ViewData["Title"] = "Marki samochodów dostępne w naszym salonie";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create">Dodaj nową markę</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Wyszukaj po nazwie <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+            <input type="submit" value="Szukaj" class="btn btn-default" /> |
+            <a asp-action="Index">Powrót do pełnej listy</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NazwaSortParm"]">@Html.DisplayNameFor(model => model.Nazwa)</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["KrajSortParm"]">Kraj założenia</a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["RokZalozeniaSortParm"]">Rok założenia</a>
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nazwa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kraj)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RokZalozenia)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edytuj</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Szczegóły</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Usuń</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

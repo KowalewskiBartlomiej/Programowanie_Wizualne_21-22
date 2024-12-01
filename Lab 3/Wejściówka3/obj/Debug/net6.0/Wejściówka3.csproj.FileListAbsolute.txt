@@ -1,0 +1,15 @@
+C:\Users\kowal\Desktop\Wejściówka3\bin\Debug\net6.0\Wejściówka3.exe
+C:\Users\kowal\Desktop\Wejściówka3\bin\Debug\net6.0\Wejściówka3.deps.json
+C:\Users\kowal\Desktop\Wejściówka3\bin\Debug\net6.0\Wejściówka3.runtimeconfig.json
+C:\Users\kowal\Desktop\Wejściówka3\bin\Debug\net6.0\Wejściówka3.dll
+C:\Users\kowal\Desktop\Wejściówka3\bin\Debug\net6.0\Wejściówka3.pdb
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\Wejściówka3.csproj.AssemblyReference.cache
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\Wejściówka3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\Wejściówka3.AssemblyInfoInputs.cache
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\Wejściówka3.AssemblyInfo.cs
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\Wejściówka3.csproj.CoreCompileInputs.cache
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\Wejściówka3.dll
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\refint\Wejściówka3.dll
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\Wejściówka3.pdb
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\Wejściówka3.genruntimeconfig.cache
+C:\Users\kowal\Desktop\Wejściówka3\obj\Debug\net6.0\ref\Wejściówka3.dll
